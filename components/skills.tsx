@@ -56,7 +56,6 @@ const technologies = [
   "Git",
   "Vercel",
   "Figma",
-  "Adobe Creative Suite",
 ]
 
 export function Skills() {
